@@ -46,3 +46,13 @@
 7. `#destroy` - `DELETE` - delete a specific `resource type`
 
 ---
+
+## Use Rails Console to Create a User
+
+- Commands
+  - `rails console`
+  - `User.connection`
+  - `user_one = User.create`
+  - `User.first`
+  - `user_two = User.create`
+  - `User.last`
